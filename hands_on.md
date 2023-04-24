@@ -1,11 +1,11 @@
 # Hands-on imaging in Python
 
 - If it seems useful — [very fast introduction to
-  Python](https://textbook.nipraxis.org/introducing_python.html)
+  Python](https://matthew-brett.github.io/dipy-textbook/introducing_python.html)
 * [Writing and reading
-  files](https://textbook.nipraxis.org/pathlib)
+  files](https://matthew-brett.github.io/dipy-textbook/pathlib)
 * [Introduction to
-  Numpy](https://textbook.nipraxis.org/numpy_intro.html)
+  Numpy](https://matthew-brett.github.io/dipy-textbook/numpy_intro.html)
 * [Arrays
   exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
 * [Numpy
