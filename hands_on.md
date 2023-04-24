@@ -7,9 +7,9 @@
 * [Introduction to
   Numpy](https://matthew-brett.github.io/dipy-textbook/numpy_intro.html)
 * [Arrays
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
+  exercise](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
 * [Numpy
-  practice](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/array_practice&subPath=array_practice.ipynb)
+  practice](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/array_practice&subPath=array_practice.ipynb)
 
 ## Some notes
 

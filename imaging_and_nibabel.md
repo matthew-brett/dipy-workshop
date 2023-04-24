@@ -5,9 +5,9 @@
 * [Reshaping and three
   dimensions](https://matthew-brett.github.io/dipy-textbook/reshape_and_3d.html)
 * [Anatomical
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
+  exercise](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
 * If you have time: [Arteries
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
+  exercise](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
 
 ## More if you are interested
 
@@ -17,4 +17,4 @@
   dimensions](https://matthew-brett.github.io/dipy-textbook/boolean_indexing_nd.html)
 * [Introduction to four dimensions](https://matthew-brett.github.io/dipy-textbook/intro_to_4d)
 * [Four dimensions
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
+  exercise](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
