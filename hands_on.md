@@ -7,7 +7,7 @@ Notebooks](https://matthew-brett.github.io/dipy-textbook/using_jupyter.html)
 * [Writing and reading
   files](https://matthew-brett.github.io/dipy-textbook/pathlib)
 * [Introduction to
-  Numpy](https://matthew-brett.github.io/dipy-textbook/umpy_intro.html)
+  Numpy](https://matthew-brett.github.io/dipy-textbook/numpy_intro.html)
 
 ## For those new to Numpy / Matlab arrays
 
