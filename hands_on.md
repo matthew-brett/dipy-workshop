@@ -1,7 +1,9 @@
 # Hands-on imaging in Python
 
-* If it seems useful — [Jupyter
+* [Jupyter
 Notebooks](https://matthew-brett.github.io/dipy-textbook/using_jupyter.html)
+* [More on Jupyter
+Notebooks](https://matthew-brett.github.io/dipy-textbook/more_on_jupyter.html)
 * If it seems useful — [very fast introduction to
   Python](https://matthew-brett.github.io/dipy-textbook/introducing_python.html)
 * [Writing and reading
