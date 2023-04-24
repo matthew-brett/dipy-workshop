@@ -1,6 +1,8 @@
 # Hands-on imaging in Python
 
-- If it seems useful — [very fast introduction to
+* If it seems useful — [Jupyter
+Notebooks](https://matthew-brett.github.io/dipy-textbook/using_jupyter.html)
+* If it seems useful — [very fast introduction to
   Python](https://matthew-brett.github.io/dipy-textbook/introducing_python.html)
 * [Writing and reading
   files](https://matthew-brett.github.io/dipy-textbook/pathlib)
