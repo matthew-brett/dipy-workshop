@@ -1,0 +1,9 @@
+# Build requirements
+jupyter-book
+sphinx-design
+
+# To allow static build / upload
+ghp-import
+
+# Notebook etc requirements
+-r requirements.txt
