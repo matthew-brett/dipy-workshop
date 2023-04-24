@@ -7,3 +7,6 @@ The pages for the workshop are at <https://matthew-brett.github.io/dipy-textbook
 
 ```{tableofcontents}
 ```
+
+[About the site
+logo](https://ami.org/press/press-releases/2015/342-forward-thinking-hiring-medical-illustrator)
