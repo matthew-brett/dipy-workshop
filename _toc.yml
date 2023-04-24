@@ -4,5 +4,6 @@
 format: jb-book
 root: intro
 chapters:
+- file: getting_started
 - file: hands_on
 - file: imaging_and_nibabel
