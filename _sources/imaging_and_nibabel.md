@@ -8,6 +8,9 @@
   exercise](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
 * If you have time: [Arteries
   exercise](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
+* [More on Nibabel images](https://matthew-brett.github.io/dipy-textbook/nibabel_images.html)
+* [Nibabel images and
+  memory](https://matthew-brett.github.io/dipy-textbook/images_and_memory.html)
 
 ## More if you are interested
 
