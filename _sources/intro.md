@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book
+# Dipy 2023 - hands-on workshop
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+These are the pages for the hands-on sessions of the [Dipy 2023
+workshop](https://dipy.org/workshops/dipy-workshop-2023).
 
-Check out the content pages bundled with this sample book to see more.
+The pages for the workshop are at <https://matthew-brett.github.io/dipy-textbook>.
 
 ```{tableofcontents}
 ```

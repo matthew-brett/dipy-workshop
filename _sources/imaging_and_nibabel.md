@@ -1,54 +1,20 @@
----
-jupytext:
-  cell_metadata_filter: -all
-  formats: md:myst
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.11.5
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
----
+# Imaging Data and NiBabel
 
-# Notebooks with MyST Markdown
+* [Arrays in 3D](https://textbook.nipraxis.org/arrays_3d)
+* [Images in 3D](https://textbook.nipraxis.org/images_3d)
+* [Reshaping and three
+  dimensions](https://textbook.nipraxis.org/reshape_and_3d.html)
+* [Anatomical
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
+* If you have time: [Arteries
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
 
-Jupyter Book also lets you write text-based notebooks using MyST Markdown.
-See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
-This page shows off a notebook written in MyST Markdown.
+## More if you are interested
 
-## An example cell
-
-With MyST Markdown, you can define code cells with a directive like so:
-
-```{code-cell}
-print(2 + 2)
-```
-
-When your book is built, the contents of any `{code-cell}` blocks will be
-executed with your default Jupyter kernel, and their outputs will be displayed
-in-line with the rest of your content.
-
-```{seealso}
-Jupyter Book uses [Jupytext](https://jupytext.readthedocs.io/en/latest/) to convert text-based files to notebooks, and can support [many other text-based notebook files](https://jupyterbook.org/file-types/jupytext.html).
-```
-
-## Create a notebook with MyST Markdown
-
-MyST Markdown notebooks are defined by two things:
-
-1. YAML metadata that is needed to understand if / how it should convert text files to notebooks (including information about the kernel needed).
-   See the YAML at the top of this page for example.
-2. The presence of `{code-cell}` directives, which will be executed with your book.
-
-That's all that is needed to get started!
-
-## Quickly add YAML metadata for MyST Notebooks
-
-If you have a markdown file and you'd like to quickly add YAML metadata to it, so that Jupyter Book will treat it as a MyST Markdown Notebook, run the following command:
-
-```
-jupyter-book myst init path/to/markdownfile.md
-```
+* [Indexing with
+  Booleans](https://textbook.nipraxis.org/boolean_indexing.html)
+* [Boolean indexing in more
+  dimensions](https://textbook.nipraxis.org/boolean_indexing_nd.html)
+* [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)
+* [Four dimensions
+  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
