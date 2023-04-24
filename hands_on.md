@@ -5,11 +5,14 @@
 * [Writing and reading
   files](https://matthew-brett.github.io/dipy-textbook/pathlib)
 * [Introduction to
-  Numpy](https://matthew-brett.github.io/dipy-textbook/numpy_intro.html)
+  Numpy](https://matthew-brett.github.io/dipy-textbook/umpy_intro.html)
+
+## For those new to Numpy / Matlab arrays
+
 * [Arrays
-  exercise](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
+exercise](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
 * [Numpy
-  practice](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/array_practice&subPath=array_practice.ipynb)
+practice](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/array_practice&subPath=array_practice.ipynb)
 
 ## Some notes
 
