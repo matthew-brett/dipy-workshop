@@ -14,9 +14,9 @@ Notebooks](https://matthew-brett.github.io/dipy-textbook/more_on_jupyter.html)
 ## For those new to Numpy / Matlab arrays
 
 * [Arrays
-exercise](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
+exercise](https://github.com/nipraxis/arrays/blob/main/arrays.ipynb)
 * [Numpy
-practice](https://dipy.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/array_practice&subPath=array_practice.ipynb)
+practice](https://github.com/nipraxis/array_practice/blob/main/array_practice.ipynb)
 
 ## Some notes
 
