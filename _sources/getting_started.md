@@ -1,10 +1,9 @@
 # Setup
 
-Before we start please:
+**The workshop finished on 26 April 2023**.
 
-* Log into the cloud system at <https://dipy.nipraxis.org>.  Enter your *email*
-  as your username, and enter any password (but remember the password you
-  entered for later, the system saves it).  Any problems, let me know.
-* [Fill in this form](https://forms.gle/KZQFWVpPSNJsdyhp9).
+The instructions here covered:
 
-While you fill in the form - please say what you want to cover.
+* Loging into the cloud system that used to be at
+  "https://dipy.nipraxis.org"
+* Filling in a form about prior experience.
